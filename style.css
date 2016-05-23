@@ -1,0 +1,20 @@
+/* Put your css in here */
+
+.dropdown {
+  border-radius: 5px;
+  padding: 5px;
+  border: solid 1px blue;
+}
+
+.txtBox {
+  border-radius: 5px;
+  padding: 5px;
+  border: solid 1px blue;
+}
+
+.output {
+  border-radius: 5px;
+  padding: 5px;
+  border: solid 1px #96CDCD;
+  background-color: #96CDCD;
+}
